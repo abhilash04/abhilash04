@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Darsi Abhilash
 
-<!--
-**abhilash04/abhilash04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | Web Developer | Problem Solver
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💻 Passionate about building web applications
+- 🌱 Currently learning Backend & Cloud technologies
+- ⚡ Interested in Full Stack Development
+- 🎯 Goal: Become a strong software engineer
+
+---
+
+## 🛠️ Skills
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+
+## 🔗 Connect With Me
+
+- LinkedIn: [](https://www.linkedin.com/in/darsi-abhilash/)
