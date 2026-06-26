@@ -22,5 +22,5 @@
 
 ## 🔗 Connect With Me
 
-* **LinkedIn:** https://www.linkedin.com/in/your-linkedin-username
-* **Email:** [yourname@example.com](mailto:yourname@example.com)
+* **LinkedIn:** https://www.linkedin.com/in/darsi-abhilash
+* **Email:** (abhilashdarsi@gmail.com)
