@@ -20,7 +20,8 @@
 - JavaScript
 - React
 - Node.js
-- Express.js
+- Java
+- Spring Boot
 - Git & GitHub
 
 ## 🔗 Connect With Me
