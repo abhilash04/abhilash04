@@ -21,9 +21,9 @@
 - React
 - Node.js
 - Express.js
-- MongoDB
 - Git & GitHub
 
 ## 🔗 Connect With Me
 
 - LinkedIn: [](https://www.linkedin.com/in/darsi-abhilash/)
+- MailId: [](abhilashdarsi@gmail.com)
