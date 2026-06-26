@@ -1,6 +1,6 @@
 # Hi 👋 I'm Darsi Abhilash
 
-🚀 Full Stack Developer | Web Developer | Problem Solver
+🚀 Full Stack Developer | Web Developer | Problem Solver 
 
 ---
 
@@ -26,5 +26,5 @@
 
 ## 🔗 Connect With Me
 
-- LinkedIn: [](https://www.linkedin.com/in/darsi-abhilash/)
-- MailId: [](abhilashdarsi@gmail.com)
+- LinkedIn: [](https://www.linkedin.com/in/darsi-abhilash/) 
+- MailId: [](abhilashdarsi@gmail.com) 
