@@ -5,8 +5,8 @@
 ## 👨‍💻 About Me
 
 * 💻 Passionate about building web applications
-* 🌱 Currently learning Backend & Cloud technologies
-* ⚡ Interested in Full Stack Development
+* 🌱 Currently working as a Software Engineer
+* ⚡ Interested in Java Developer
 * 🎯 Goal: Become a strong Software Engineer
 
 ## 🛠️ Skills
